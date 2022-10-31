@@ -5,6 +5,7 @@
     "home_page_url": "https://annickey.github.io/gestionContenu",
     "feed_url": "https://annickey.github.io/gestionContenu/feed.json",
     "user_comment": "",
+    "icon": "https://annickey.github.io/gestionContenu/media/website/bonk.jpg",
     "author": {
         "name": "coco"
     },
@@ -22,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2022-10-31T18:25:15+01:00",
-            "date_modified": "2022-10-31T18:29:04+01:00"
+            "date_modified": "2022-10-31T18:59:22+01:00"
         }
     ]
 }
