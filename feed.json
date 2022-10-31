@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "very serious website",
+    "description": "",
+    "home_page_url": "https://annickey.github.io/gestionContenu",
+    "feed_url": "https://annickey.github.io/gestionContenu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "coco"
+    },
+    "items": [
+        {
+            "id": "https://annickey.github.io/gestionContenu/jaaj.html",
+            "url": "https://annickey.github.io/gestionContenu/jaaj.html",
+            "title": "✨ mais patrick, que fais-tu dans mon mcdo?? ✨",
+            "summary": "JaAaAaAj",
+            "content_html": "<p>JaAaAaAj</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://annickey.github.io/gestionContenu/media/posts/1/ps1-hagrid.jpg\" sizes=\"100vw\" srcset=\"https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-xs.jpg 300w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-sm.jpg 480w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-md.jpg 768w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-lg.jpg 1024w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-xl.jpg 1360w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-2xl.jpg 1600w\"  alt=\"ps1 hagrid le sang\" width=\"1200\" height=\"675\"><figcaption>ur a wisarrd hary</figcaption></figure>\n<p> </p>",
+            "image": "https://annickey.github.io/gestionContenu/media/posts/1/bob.jpg",
+            "author": {
+                "name": "coco"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-31T18:25:15+01:00",
+            "date_modified": "2022-10-31T18:29:04+01:00"
+        }
+    ]
+}

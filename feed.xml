@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>very serious website</title>
+    <link href="https://annickey.github.io/gestionContenu/feed.xml" rel="self" />
+    <link href="https://annickey.github.io/gestionContenu" />
+    <updated>2022-10-31T18:29:04+01:00</updated>
+    <author>
+        <name>coco</name>
+    </author>
+    <id>https://annickey.github.io/gestionContenu</id>
+
+    <entry>
+        <title>✨ mais patrick, que fais-tu dans mon mcdo?? ✨</title>
+        <author>
+            <name>coco</name>
+        </author>
+        <link href="https://annickey.github.io/gestionContenu/jaaj.html"/>
+        <id>https://annickey.github.io/gestionContenu/jaaj.html</id>
+
+        <updated>2022-10-31T18:29:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://annickey.github.io/gestionContenu/media/posts/1/bob.jpg" alt="bob." />
+                    JaAaAaAj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://annickey.github.io/gestionContenu/media/posts/1/bob.jpg" alt="bob." />
+                <p>JaAaAaAj</p>
+<figure class="post__image"><img loading="lazy"  src="https://annickey.github.io/gestionContenu/media/posts/1/ps1-hagrid.jpg" sizes="100vw" srcset="https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-xs.jpg 300w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-sm.jpg 480w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-md.jpg 768w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-lg.jpg 1024w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-xl.jpg 1360w ,https://annickey.github.io/gestionContenu/media/posts/1/responsive/ps1-hagrid-2xl.jpg 1600w"  alt="ps1 hagrid le sang" width="1200" height="675"><figcaption>ur a wisarrd hary</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
